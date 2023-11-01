@@ -1,0 +1,7 @@
+{
+  "name": "cs-ion-label-a11y",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
